@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">Dil ve Tool Bilgisi:</h3>
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   <p>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
